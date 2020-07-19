@@ -13,3 +13,15 @@
  *= require_tree .
  *= require_self
  */
+
+
+ @import "bootstrap-sprockets";
+    @import "bootstrap";
+
+.title {
+  color: white;
+}
+
+.commonf {
+  text-align: right;
+}
